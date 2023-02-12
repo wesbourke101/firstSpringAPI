@@ -36,3 +36,4 @@ public class CurrencyServiceConfiguration {
         this.key = key;
     }
 }
+
